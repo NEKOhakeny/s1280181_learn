@@ -1,6 +1,8 @@
 #import the class file
 import PAMI.extras.dbStats.transactionalDatabaseStats as stats
 import pandas as pd
+
+
 class frequenciesOfItems:
     fileName: str
     separator: str
