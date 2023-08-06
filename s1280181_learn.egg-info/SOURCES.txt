@@ -1,0 +1,15 @@
+README.md
+setup.py
+s1280181_learn/__init__.py
+s1280181_learn/run.py
+s1280181_learn/test.py
+s1280181_learn.egg-info/PKG-INFO
+s1280181_learn.egg-info/SOURCES.txt
+s1280181_learn.egg-info/dependency_links.txt
+s1280181_learn.egg-info/requires.txt
+s1280181_learn.egg-info/top_level.txt
+s1280181_learn/statistics/__init__.py
+s1280181_learn/statistics/frequenciesOfItems.py
+s1280181_learn/statistics/toData.py
+s1280181_learn/visualization/__init__.py
+s1280181_learn/visualization/heatMapItemsFrequencies.py

@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: s1280181-learn
+Version: 0.0.0
+Home-page: https://github.com/NEKOhakeny/s1280181_learn.git
+Author: NEKOhakeny
+Author-email: s1280181@u-aizu.ac.jp
+License: MIT
+Requires-Python: >=3.5
+Provides-Extra: gpu
+Provides-Extra: spark
+Provides-Extra: dev
+Provides-Extra: all
